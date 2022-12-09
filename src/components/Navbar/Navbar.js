@@ -33,7 +33,7 @@ export const Navbar = ({ toggle, isOpen }) => {
       <Nav scrollNav={scrollNav}>
         <NavbarContainer>
           <NavLogo to="/" onClick={toggleHome}>
-            Dolla
+            BonoBank
           </NavLogo>
           <MobileIcon onClick={toggle}>
             <FaBars />

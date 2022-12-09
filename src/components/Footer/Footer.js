@@ -57,8 +57,8 @@ const Footer = () => {
         </FooterLinksContainer>
         <SocialMedia>
           <SocialMediaWrap>
-            <SocialLogo>Dolla</SocialLogo>
-            <WebsireRights>dolla © {date} All rights reserved</WebsireRights>
+            <SocialLogo>BonoBank</SocialLogo>
+            <WebsireRights>bonobank © {date} All rights reserved</WebsireRights>
             <SocialIcons>
               <SocialIconLink
                 href="//www.instagram.com"
